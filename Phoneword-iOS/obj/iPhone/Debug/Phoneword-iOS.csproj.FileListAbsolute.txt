@@ -1,0 +1,9 @@
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/actool/_PartialAppManifest.items
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/optimized/
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/Phoneword-iOS.csproj.CoreCompileInputs.cache
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/bin/iPhone/Debug/Phoneword-iOS.exe
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/bin/iPhone/Debug/Phoneword-iOS.pdb
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/Phoneword-iOS.exe
+/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/Phoneword-iOS.pdb

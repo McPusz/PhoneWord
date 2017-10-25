@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EF094E03-327B-4C53-BBB2-4FC64C9A925D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword-iOS Status">
+    <Files>
+      <File FileName="Phoneword-iOS Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Phoneword-iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.443447cc0d395b5821bf1eeb11f7283a0941a8fc" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/Magda/Desktop/Pierdoły/Apki/Phoneword Xamarin/Phoneword-iOS/Phoneword-iOS/obj/iPhone/Debug/device-builds/iphone5.4-10.3.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip
